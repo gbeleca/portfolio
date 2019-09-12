@@ -1,2 +1,2 @@
 # portfolio
-My testing project in one repository.
+My testing projects in one repository.
